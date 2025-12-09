@@ -1,0 +1,3 @@
+btn.removeChild();
+
+btn.remove();
